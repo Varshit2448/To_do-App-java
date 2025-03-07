@@ -1,4 +1,4 @@
-# 📝 TO-DO Application using Java
+# 📝 to_do App in Java
 
 A lightweight **To-Do application** developed in **Java**, running on **Apache Tomcat Server 7**, and built using **Eclipse Enterprise Edition**.
 
