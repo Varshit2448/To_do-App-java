@@ -38,8 +38,7 @@ A lightweight **To-Do application** developed in **Java**, running on **Apache T
 
 1. **Clone this repository**
    ```sh
-   git clone https://github.com/Somesh-komarellu/TO_DO_Application_using_jfs.git
-   cd TO_DO_Application_using_jfs
+   https://github.com/Varshit2448/To_do-App-java.git
    ```
 2. **Import the project into Eclipse EE**
    - **File** → **Import** → **Existing Projects into Workspace**
